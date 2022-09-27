@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/kompostbeschleuniger", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-kompostbeschleuniger-25-kg-obi-7745243-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-kompostbeschleuniger-25-kg-obi-7745243-1.webp"}}],fetch:{},mutations:void 0});

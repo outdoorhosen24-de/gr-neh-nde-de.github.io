@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/dobar", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/dobar-xxl-insektenhotel-wand-58-x-30-x-110-cm-gruen-dobar-4320537-1.jpg":"\u002Fassets\u002Fimages\u002Fdobar-xxl-insektenhotel-wand-58-x-30-x-110-cm-gruen-dobar-4320537-1.webp"}}],fetch:{},mutations:void 0});

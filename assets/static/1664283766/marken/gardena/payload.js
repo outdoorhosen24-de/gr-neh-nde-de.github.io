@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/gardena", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/gardena-drucksprueher-comfort-5-l-gardena-8609331-1.jpg":"\u002Fassets\u002Fimages\u002Fgardena-drucksprueher-comfort-5-l-gardena-8609331-1.webp"}}],fetch:{},mutations:void 0});

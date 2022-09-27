@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/mellerud", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/mellerud-gruenbelagentferner-5-l-mellerud-6133706-1.jpg":"\u002Fassets\u002Fimages\u002Fmellerud-gruenbelagentferner-5-l-mellerud-6133706-1.webp"}}],fetch:{},mutations:void 0});

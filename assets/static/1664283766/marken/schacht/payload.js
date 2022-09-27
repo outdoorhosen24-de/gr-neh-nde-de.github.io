@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/schacht", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/schacht-algenkalk-pulver-175-kg-schacht-3671740-1.jpg":"\u002Fassets\u002Fimages\u002Fschacht-algenkalk-pulver-175-kg-schacht-3671740-1.webp"}}],fetch:{},mutations:void 0});

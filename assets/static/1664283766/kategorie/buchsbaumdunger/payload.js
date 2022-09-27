@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/buchsbaumdunger", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-langzeit-buchsbaum-und-ilex-duenger-12-kg-obi-2410421-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-langzeit-buchsbaum-und-ilex-duenger-12-kg-obi-2410421-1.webp"}}],fetch:{},mutations:void 0});

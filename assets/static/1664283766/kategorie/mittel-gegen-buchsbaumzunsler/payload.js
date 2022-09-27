@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/mittel-gegen-buchsbaumzunsler", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/solabiol-neem-bio-schaedlingsfrei-30-ml-solabiol-2607901-1.jpg":"\u002Fassets\u002Fimages\u002Fsolabiol-neem-bio-schaedlingsfrei-30-ml-solabiol-2607901-1.webp"}}],fetch:{},mutations:void 0});

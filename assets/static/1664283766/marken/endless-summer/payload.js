@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/endless-summer", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/endless-summer-hortensienerde-blau-1-x-20-l-endless-summer-1236934-1.jpg":"\u002Fassets\u002Fimages\u002Fendless-summer-hortensienerde-blau-1-x-20-l-endless-summer-1236934-1.webp"}}],fetch:{},mutations:void 0});

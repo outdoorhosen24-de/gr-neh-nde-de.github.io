@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/koniferendunger", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/neudorff-azet-koniferenduenger-175-kg-neudorff-6858161-1.jpg":"\u002Fassets\u002Fimages\u002Fneudorff-azet-koniferenduenger-175-kg-neudorff-6858161-1.webp"}}],fetch:{},mutations:void 0});

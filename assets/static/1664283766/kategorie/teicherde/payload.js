@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/teicherde", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-teicherde-1-x-20-l-obi-3281854-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-teicherde-1-x-20-l-obi-3281854-1.webp"}}],fetch:{},mutations:void 0});

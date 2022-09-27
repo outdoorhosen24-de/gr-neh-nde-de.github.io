@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/terra-preta", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/neudorff-terra-preta-boden-verbesserer-2-kg-neudorff-6858153-1.jpg":"\u002Fassets\u002Fimages\u002Fneudorff-terra-preta-boden-verbesserer-2-kg-neudorff-6858153-1.webp"}}],fetch:{},mutations:void 0});
