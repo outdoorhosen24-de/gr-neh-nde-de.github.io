@@ -1,17 +1,52 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "obi",
+        "name": "OBI",
+        "slug": "obi",
+        "productCategory": "OBI",
+        "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "compo",
+        "name": "Compo",
+        "slug": "compo",
+        "productCategory": "Compo",
+        "localThumb": "/assets/images/hersteller/compo.webp"
+    },
+    {
+        "key": "mellerud",
+        "name": "Mellerud",
+        "slug": "mellerud",
+        "productCategory": "Mellerud",
+        "localThumb": "/assets/images/hersteller/mellerud.webp"
+    },
+    {
+        "key": "garantia",
+        "name": "Garantia",
+        "slug": "garantia",
+        "productCategory": "Garantia",
+        "localThumb": "/assets/images/hersteller/garantia.webp"
+    },
+    {
+        "key": "gloria",
+        "name": "Gloria",
+        "slug": "gloria",
+        "productCategory": "Gloria",
+        "localThumb": "/assets/images/hersteller/gloria.webp"
+    },
+    {
+        "key": "bellissa",
+        "name": "Bellissa",
+        "slug": "bellissa",
+        "productCategory": "Bellissa",
+        "localThumb": "/assets/images/hersteller/bellissa.webp"
+    },
+    {
+        "key": "manna",
+        "name": "Manna",
+        "slug": "manna",
+        "productCategory": "Manna",
+        "localThumb": "/assets/images/hersteller/manna.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +56,157 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "dobar",
+        "name": "Dobar",
+        "slug": "dobar",
+        "productCategory": "Dobar",
+        "localThumb": "/assets/images/hersteller/dobar.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "gardena",
+        "name": "Gardena",
+        "slug": "gardena",
+        "productCategory": "Gardena",
+        "localThumb": "/assets/images/hersteller/gardena.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "neudorff",
+        "name": "Neudorff",
+        "slug": "neudorff",
+        "productCategory": "Neudorff",
+        "localThumb": "/assets/images/hersteller/neudorff.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "wolf garten",
+        "name": "Wolf Garten",
+        "slug": "wolf-garten",
+        "productCategory": "Wolf Garten",
+        "localThumb": "/assets/images/hersteller/wolf-garten.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "endless summer",
+        "name": "Endless Summer",
+        "slug": "endless-summer",
+        "productCategory": "Endless Summer",
+        "localThumb": "/assets/images/hersteller/endless-summer.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "solabiol",
+        "name": "Solabiol",
+        "slug": "solabiol",
+        "productCategory": "Solabiol",
+        "localThumb": "/assets/images/hersteller/solabiol.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "seramis",
+        "name": "Seramis",
+        "slug": "seramis",
+        "productCategory": "Seramis",
+        "localThumb": "/assets/images/hersteller/seramis.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "protect home",
+        "name": "Protect Home",
+        "slug": "protect-home",
+        "productCategory": "Protect Home",
+        "localThumb": "/assets/images/hersteller/protect-home.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "protect garden",
+        "name": "Protect Garden",
+        "slug": "protect-garden",
+        "productCategory": "Protect Garden",
+        "localThumb": "/assets/images/hersteller/protect-garden.webp"
+    },
+    {
+        "key": "floragard",
+        "name": "Floragard",
+        "slug": "floragard",
+        "productCategory": "Floragard",
+        "localThumb": "/assets/images/hersteller/floragard.webp"
+    },
+    {
+        "key": "proflora",
+        "name": "Proflora",
+        "slug": "proflora",
+        "productCategory": "Proflora",
+        "localThumb": "/assets/images/hersteller/proflora.webp"
+    },
+    {
+        "key": "westland",
+        "name": "Westland",
+        "slug": "westland",
+        "productCategory": "Westland",
+        "localThumb": "/assets/images/hersteller/westland.webp"
+    },
+    {
+        "key": "bevermann",
+        "name": "Bevermann",
+        "slug": "bevermann",
+        "productCategory": "Bevermann",
+        "localThumb": "/assets/images/hersteller/bevermann.webp"
+    },
+    {
+        "key": "schacht",
+        "name": "Schacht",
+        "slug": "schacht",
+        "productCategory": "Schacht",
+        "localThumb": "/assets/images/hersteller/schacht.webp"
+    },
+    {
+        "key": "westmann",
+        "name": "Westmann",
+        "slug": "westmann",
+        "productCategory": "Westmann",
+        "localThumb": "/assets/images/hersteller/westmann.webp"
+    },
+    {
+        "key": "wuxal",
+        "name": "Wuxal",
+        "slug": "wuxal",
+        "productCategory": "Wuxal",
+        "localThumb": "/assets/images/hersteller/wuxal.webp"
+    },
+    {
+        "key": "remaplan",
+        "name": "Remaplan",
+        "slug": "remaplan",
+        "productCategory": "Remaplan",
+        "localThumb": "/assets/images/hersteller/remaplan.webp"
+    },
+    {
+        "key": "trixie",
+        "name": "Trixie",
+        "slug": "trixie",
+        "productCategory": "Trixie",
+        "localThumb": "/assets/images/hersteller/trixie.webp"
+    },
+    {
+        "key": "substral celaflor",
+        "name": "Substral Celaflor",
+        "slug": "substral-celaflor",
+        "productCategory": "Substral Celaflor",
+        "localThumb": "/assets/images/hersteller/substral-celaflor.webp"
+    },
+    {
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
+    },
+    {
+        "key": "lugato",
+        "name": "Lugato",
+        "slug": "lugato",
+        "productCategory": "Lugato",
+        "localThumb": "/assets/images/hersteller/lugato.webp"
+    },
+    {
+        "key": "einhell",
+        "name": "Einhell",
+        "slug": "einhell",
+        "productCategory": "Einhell",
+        "localThumb": "/assets/images/hersteller/einhell.webp"
     }
 ]

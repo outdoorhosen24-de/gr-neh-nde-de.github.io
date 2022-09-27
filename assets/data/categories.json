@@ -1,107 +1,744 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "blumenerde",
+        "name": "Blumenerde",
+        "slug": "blumenerde",
+        "productCategory": "Blumenerde",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "universalerde",
+        "name": "Universalerde",
+        "slug": "universalerde",
+        "productCategory": "Universalerde",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "hochbeeterde",
+        "name": "Hochbeeterde",
+        "slug": "hochbeeterde",
+        "productCategory": "Hochbeeterde",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "dünger",
+        "name": "Dünger",
+        "slug": "dunger",
+        "productCategory": "Dünger",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "bodenaktivator & bodenverbesserer",
+        "name": "Bodenaktivator & Bodenverbesserer",
+        "slug": "bodenaktivator-bodenverbesserer",
+        "productCategory": "Bodenaktivator & Bodenverbesserer",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "kompostbeschleuniger",
+        "name": "Kompostbeschleuniger",
+        "slug": "kompostbeschleuniger",
+        "productCategory": "Kompostbeschleuniger",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "tomatenerde",
+        "name": "Tomatenerde",
+        "slug": "tomatenerde",
+        "productCategory": "Tomatenerde",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "pflanzerde",
+        "name": "Pflanzerde",
+        "slug": "pflanzerde",
+        "productCategory": "Pflanzerde",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "anzuchterde",
+        "name": "Anzuchterde",
+        "slug": "anzuchterde",
+        "productCategory": "Anzuchterde",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "unkrautvernichter",
+        "name": "Unkrautvernichter",
+        "slug": "unkrautvernichter",
+        "productCategory": "Unkrautvernichter",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "grünbelagentferner",
+        "name": "Grünbelagentferner",
+        "slug": "grunbelagentferner",
+        "productCategory": "Grünbelagentferner",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "teicherde",
+        "name": "Teicherde",
+        "slug": "teicherde",
+        "productCategory": "Teicherde",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "rasenerde",
+        "name": "Rasenerde",
+        "slug": "rasenerde",
+        "productCategory": "Rasenerde",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "gartendünger",
+        "name": "Gartendünger",
+        "slug": "gartendunger",
+        "productCategory": "Gartendünger",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "zitrusdünger",
+        "name": "Zitrusdünger",
+        "slug": "zitrusdunger",
+        "productCategory": "Zitrusdünger",
+        "subCategories": []
+    },
+    {
+        "key": "mulch",
+        "name": "Mulch",
+        "slug": "mulch",
+        "productCategory": "Mulch",
+        "subCategories": []
+    },
+    {
+        "key": "dekormulch",
+        "name": "Dekormulch",
+        "slug": "dekormulch",
+        "productCategory": "Dekormulch",
+        "subCategories": []
+    },
+    {
+        "key": "komposter",
+        "name": "Komposter",
+        "slug": "komposter",
+        "productCategory": "Komposter",
+        "subCategories": []
+    },
+    {
+        "key": "mittel gegen unkraut",
+        "name": "Mittel gegen Unkraut",
+        "slug": "mittel-gegen-unkraut",
+        "productCategory": "Mittel gegen Unkraut",
+        "subCategories": []
+    },
+    {
+        "key": "weitere mittel gegen unkraut",
+        "name": "Weitere Mittel gegen Unkraut",
+        "slug": "weitere-mittel-gegen-unkraut",
+        "productCategory": "Weitere Mittel gegen Unkraut",
+        "subCategories": []
+    },
+    {
+        "key": "unkrautbeseitigung",
+        "name": "Unkrautbeseitigung",
+        "slug": "unkrautbeseitigung",
+        "productCategory": "Unkrautbeseitigung",
+        "subCategories": []
+    },
+    {
+        "key": "unkrautbrenner",
+        "name": "Unkrautbrenner",
+        "slug": "unkrautbrenner",
+        "productCategory": "Unkrautbrenner",
+        "subCategories": []
+    },
+    {
+        "key": "unkraut im rasen",
+        "name": "Unkraut im Rasen",
+        "slug": "unkraut-im-rasen",
+        "productCategory": "Unkraut im Rasen",
+        "subCategories": []
+    },
+    {
+        "key": "schädlingsbekämpfung & pflanzenschutzmittel",
+        "name": "Schädlingsbekämpfung & Pflanzenschutzmittel",
+        "slug": "schadlingsbekampfung-pflanzenschutzmittel",
+        "productCategory": "Schädlingsbekämpfung & Pflanzenschutzmittel",
+        "subCategories": []
+    },
+    {
+        "key": "drucksprüher",
+        "name": "Drucksprüher",
+        "slug": "druckspruher",
+        "productCategory": "Drucksprüher",
+        "subCategories": []
+    },
+    {
+        "key": "drucksprühgeräte",
+        "name": "Drucksprühgeräte",
+        "slug": "druckspruhgerate",
+        "productCategory": "Drucksprühgeräte",
+        "subCategories": []
+    },
+    {
+        "key": "kalkdünger",
+        "name": "Kalkdünger",
+        "slug": "kalkdunger",
+        "productCategory": "Kalkdünger",
+        "subCategories": []
+    },
+    {
+        "key": "gartenkalk",
+        "name": "Gartenkalk",
+        "slug": "gartenkalk",
+        "productCategory": "Gartenkalk",
+        "subCategories": []
+    },
+    {
+        "key": "rindenmulch",
+        "name": "Rindenmulch",
+        "slug": "rindenmulch",
+        "productCategory": "Rindenmulch",
+        "subCategories": []
+    },
+    {
+        "key": "insektenhäuser & nützlingheime",
+        "name": "Insektenhäuser & Nützlingheime",
+        "slug": "insektenhauser-nutzlingheime",
+        "productCategory": "Insektenhäuser & Nützlingheime",
+        "subCategories": []
+    },
+    {
+        "key": "weitere bodenverbesserer",
+        "name": "Weitere Bodenverbesserer",
+        "slug": "weitere-bodenverbesserer",
+        "productCategory": "Weitere Bodenverbesserer",
+        "subCategories": []
+    },
+    {
+        "key": "rasendünger",
+        "name": "Rasendünger",
+        "slug": "rasendunger",
+        "productCategory": "Rasendünger",
+        "subCategories": []
+    },
+    {
+        "key": "rasendünger mit langzeitwirkung",
+        "name": "Rasendünger mit Langzeitwirkung",
+        "slug": "rasendunger-mit-langzeitwirkung",
+        "productCategory": "Rasendünger mit Langzeitwirkung",
+        "subCategories": []
+    },
+    {
+        "key": "rasendünger mit unkrautvernichter",
+        "name": "Rasendünger mit Unkrautvernichter",
+        "slug": "rasendunger-mit-unkrautvernichter",
+        "productCategory": "Rasendünger mit Unkrautvernichter",
+        "subCategories": []
+    },
+    {
+        "key": "bio-rasendünger",
+        "name": "Bio-Rasendünger",
+        "slug": "bio-rasendunger",
+        "productCategory": "Bio-Rasendünger",
+        "subCategories": []
+    },
+    {
+        "key": "buchsbaumdünger",
+        "name": "Buchsbaumdünger",
+        "slug": "buchsbaumdunger",
+        "productCategory": "Buchsbaumdünger",
+        "subCategories": []
+    },
+    {
+        "key": "rosenerde",
+        "name": "Rosenerde",
+        "slug": "rosenerde",
+        "productCategory": "Rosenerde",
+        "subCategories": []
+    },
+    {
+        "key": "hortensienerde",
+        "name": "Hortensienerde",
+        "slug": "hortensienerde",
+        "productCategory": "Hortensienerde",
+        "subCategories": []
+    },
+    {
+        "key": "orchideenerde",
+        "name": "Orchideenerde",
+        "slug": "orchideenerde",
+        "productCategory": "Orchideenerde",
+        "subCategories": []
+    },
+    {
+        "key": "blumendünger",
+        "name": "Blumendünger",
+        "slug": "blumendunger",
+        "productCategory": "Blumendünger",
+        "subCategories": []
+    },
+    {
+        "key": "weitere blumendünger",
+        "name": "Weitere Blumendünger",
+        "slug": "weitere-blumendunger",
+        "productCategory": "Weitere Blumendünger",
+        "subCategories": []
+    },
+    {
+        "key": "hortensiendünger",
+        "name": "Hortensiendünger",
+        "slug": "hortensiendunger",
+        "productCategory": "Hortensiendünger",
+        "subCategories": []
+    },
+    {
+        "key": "rhododendrondünger",
+        "name": "Rhododendrondünger",
+        "slug": "rhododendrondunger",
+        "productCategory": "Rhododendrondünger",
+        "subCategories": []
+    },
+    {
+        "key": "weitere gartendünger",
+        "name": "Weitere Gartendünger",
+        "slug": "weitere-gartendunger",
+        "productCategory": "Weitere Gartendünger",
+        "subCategories": []
+    },
+    {
+        "key": "kübelpflanzenerde",
+        "name": "Kübelpflanzenerde",
+        "slug": "kubelpflanzenerde",
+        "productCategory": "Kübelpflanzenerde",
+        "subCategories": []
+    },
+    {
+        "key": "hornspäne",
+        "name": "Hornspäne",
+        "slug": "hornspane",
+        "productCategory": "Hornspäne",
+        "subCategories": []
+    },
+    {
+        "key": "weitere blumenerden",
+        "name": "Weitere Blumenerden",
+        "slug": "weitere-blumenerden",
+        "productCategory": "Weitere Blumenerden",
+        "subCategories": []
+    },
+    {
+        "key": "rhododendronerde",
+        "name": "Rhododendronerde",
+        "slug": "rhododendronerde",
+        "productCategory": "Rhododendronerde",
+        "subCategories": []
+    },
+    {
+        "key": "biologische schädlingsbekämpfung",
+        "name": "Biologische Schädlingsbekämpfung",
+        "slug": "biologische-schadlingsbekampfung",
+        "productCategory": "Biologische Schädlingsbekämpfung",
+        "subCategories": []
+    },
+    {
+        "key": "kakteenerde",
+        "name": "Kakteenerde",
+        "slug": "kakteenerde",
+        "productCategory": "Kakteenerde",
+        "subCategories": []
+    },
+    {
+        "key": "substrate",
+        "name": "Substrate",
+        "slug": "substrate",
+        "productCategory": "Substrate",
+        "subCategories": []
+    },
+    {
+        "key": "seramis",
+        "name": "Seramis",
+        "slug": "seramis",
+        "productCategory": "Seramis",
+        "subCategories": []
+    },
+    {
+        "key": "rasensand",
+        "name": "Rasensand",
+        "slug": "rasensand",
+        "productCategory": "Rasensand",
+        "subCategories": []
+    },
+    {
+        "key": "mittel gegen ameisen",
+        "name": "Mittel gegen Ameisen",
+        "slug": "mittel-gegen-ameisen",
+        "productCategory": "Mittel gegen Ameisen",
+        "subCategories": []
+    },
+    {
+        "key": "ameisenmittel",
+        "name": "Ameisenmittel",
+        "slug": "ameisenmittel",
+        "productCategory": "Ameisenmittel",
+        "subCategories": []
+    },
+    {
+        "key": "orchideendünger",
+        "name": "Orchideendünger",
+        "slug": "orchideendunger",
+        "productCategory": "Orchideendünger",
+        "subCategories": []
+    },
+    {
+        "key": "kräutererde",
+        "name": "Kräutererde",
+        "slug": "krautererde",
+        "productCategory": "Kräutererde",
+        "subCategories": []
+    },
+    {
+        "key": "pinienrinde",
+        "name": "Pinienrinde",
+        "slug": "pinienrinde",
+        "productCategory": "Pinienrinde",
+        "subCategories": []
+    },
+    {
+        "key": "graberde",
+        "name": "Graberde",
+        "slug": "graberde",
+        "productCategory": "Graberde",
+        "subCategories": []
+    },
+    {
+        "key": "palmenerde",
+        "name": "Palmenerde",
+        "slug": "palmenerde",
+        "productCategory": "Palmenerde",
+        "subCategories": []
+    },
+    {
+        "key": "kokoserde",
+        "name": "Kokoserde",
+        "slug": "kokoserde",
+        "productCategory": "Kokoserde",
+        "subCategories": []
+    },
+    {
+        "key": "bonsaierde",
+        "name": "Bonsaierde",
+        "slug": "bonsaierde",
+        "productCategory": "Bonsaierde",
+        "subCategories": []
+    },
+    {
+        "key": "zitruserde",
+        "name": "Zitruserde",
+        "slug": "zitruserde",
+        "productCategory": "Zitruserde",
+        "subCategories": []
+    },
+    {
+        "key": "gemüseerde",
+        "name": "Gemüseerde",
+        "slug": "gemuseerde",
+        "productCategory": "Gemüseerde",
+        "subCategories": []
+    },
+    {
+        "key": "weiteres mulchmaterial",
+        "name": "Weiteres Mulchmaterial",
+        "slug": "weiteres-mulchmaterial",
+        "productCategory": "Weiteres Mulchmaterial",
+        "subCategories": []
+    },
+    {
+        "key": "rosendünger",
+        "name": "Rosendünger",
+        "slug": "rosendunger",
+        "productCategory": "Rosendünger",
+        "subCategories": []
+    },
+    {
+        "key": "weitere rasendünger",
+        "name": "Weitere Rasendünger",
+        "slug": "weitere-rasendunger",
+        "productCategory": "Weitere Rasendünger",
+        "subCategories": []
+    },
+    {
+        "key": "tomatendünger",
+        "name": "Tomatendünger",
+        "slug": "tomatendunger",
+        "productCategory": "Tomatendünger",
+        "subCategories": []
+    },
+    {
+        "key": "rasendünger mit moosvernichter",
+        "name": "Rasendünger mit Moosvernichter",
+        "slug": "rasendunger-mit-moosvernichter",
+        "productCategory": "Rasendünger mit Moosvernichter",
+        "subCategories": []
+    },
+    {
+        "key": "nützlinge",
+        "name": "Nützlinge",
+        "slug": "nutzlinge",
+        "productCategory": "Nützlinge",
+        "subCategories": []
+    },
+    {
+        "key": "gemüsedünger",
+        "name": "Gemüsedünger",
+        "slug": "gemusedunger",
+        "productCategory": "Gemüsedünger",
+        "subCategories": []
+    },
+    {
+        "key": "heckendünger",
+        "name": "Heckendünger",
+        "slug": "heckendunger",
+        "productCategory": "Heckendünger",
+        "subCategories": []
+    },
+    {
+        "key": "bentonit & urgesteinsmehl",
+        "name": "Bentonit & Urgesteinsmehl",
+        "slug": "bentonit-urgesteinsmehl",
+        "productCategory": "Bentonit & Urgesteinsmehl",
+        "subCategories": []
+    },
+    {
+        "key": "bittersalz",
+        "name": "Bittersalz",
+        "slug": "bittersalz",
+        "productCategory": "Bittersalz",
+        "subCategories": []
+    },
+    {
+        "key": "bambusdünger",
+        "name": "Bambusdünger",
+        "slug": "bambusdunger",
+        "productCategory": "Bambusdünger",
+        "subCategories": []
+    },
+    {
+        "key": "pflanzenstärkungsmittel",
+        "name": "Pflanzenstärkungsmittel",
+        "slug": "pflanzenstarkungsmittel",
+        "productCategory": "Pflanzenstärkungsmittel",
+        "subCategories": []
+    },
+    {
+        "key": "universaldünger",
+        "name": "Universaldünger",
+        "slug": "universaldunger",
+        "productCategory": "Universaldünger",
+        "subCategories": []
+    },
+    {
+        "key": "rasenstartdünger",
+        "name": "Rasenstartdünger",
+        "slug": "rasenstartdunger",
+        "productCategory": "Rasenstartdünger",
+        "subCategories": []
+    },
+    {
+        "key": "blaukorn",
+        "name": "Blaukorn",
+        "slug": "blaukorn",
+        "productCategory": "Blaukorn",
+        "subCategories": []
+    },
+    {
+        "key": "terra preta",
+        "name": "Terra Preta",
+        "slug": "terra-preta",
+        "productCategory": "Terra Preta",
+        "subCategories": []
+    },
+    {
+        "key": "beerendünger",
+        "name": "Beerendünger",
+        "slug": "beerendunger",
+        "productCategory": "Beerendünger",
+        "subCategories": []
+    },
+    {
+        "key": "mittel gegen ratten",
+        "name": "Mittel gegen Ratten",
+        "slug": "mittel-gegen-ratten",
+        "productCategory": "Mittel gegen Ratten",
+        "subCategories": []
+    },
+    {
+        "key": "rattengift",
+        "name": "Rattengift",
+        "slug": "rattengift",
+        "productCategory": "Rattengift",
+        "subCategories": []
+    },
+    {
+        "key": "schneckenschutz",
+        "name": "Schneckenschutz",
+        "slug": "schneckenschutz",
+        "productCategory": "Schneckenschutz",
+        "subCategories": []
+    },
+    {
+        "key": "weitere schneckenschutzmittel",
+        "name": "Weitere Schneckenschutzmittel",
+        "slug": "weitere-schneckenschutzmittel",
+        "productCategory": "Weitere Schneckenschutzmittel",
+        "subCategories": []
+    },
+    {
+        "key": "schneckenzäune",
+        "name": "Schneckenzäune",
+        "slug": "schneckenzaune",
+        "productCategory": "Schneckenzäune",
+        "subCategories": []
+    },
+    {
+        "key": "mittel gegen mäuse",
+        "name": "Mittel gegen Mäuse",
+        "slug": "mittel-gegen-mause",
+        "productCategory": "Mittel gegen Mäuse",
+        "subCategories": []
+    },
+    {
+        "key": "mausefallen",
+        "name": "Mausefallen",
+        "slug": "mausefallen",
+        "productCategory": "Mausefallen",
+        "subCategories": []
+    },
+    {
+        "key": "ameisenfallen",
+        "name": "Ameisenfallen",
+        "slug": "ameisenfallen",
+        "productCategory": "Ameisenfallen",
+        "subCategories": []
+    },
+    {
+        "key": "mittel gegen weiteres ungeziefer",
+        "name": "Mittel gegen weiteres Ungeziefer",
+        "slug": "mittel-gegen-weiteres-ungeziefer",
+        "productCategory": "Mittel gegen weiteres Ungeziefer",
+        "subCategories": []
+    },
+    {
+        "key": "mittel gegen mücken",
+        "name": "Mittel gegen Mücken",
+        "slug": "mittel-gegen-mucken",
+        "productCategory": "Mittel gegen Mücken",
+        "subCategories": []
+    },
+    {
+        "key": "schädlinge an pflanzen",
+        "name": "Schädlinge an Pflanzen",
+        "slug": "schadlinge-an-pflanzen",
+        "productCategory": "Schädlinge an Pflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "mittel gegen blattläuse",
+        "name": "Mittel gegen Blattläuse",
+        "slug": "mittel-gegen-blattlause",
+        "productCategory": "Mittel gegen Blattläuse",
+        "subCategories": []
+    },
+    {
+        "key": "mittel gegen spinnmilben",
+        "name": "Mittel gegen Spinnmilben",
+        "slug": "mittel-gegen-spinnmilben",
+        "productCategory": "Mittel gegen Spinnmilben",
+        "subCategories": []
+    },
+    {
+        "key": "mittel gegen buchsbaumzünsler",
+        "name": "Mittel gegen Buchsbaumzünsler",
+        "slug": "mittel-gegen-buchsbaumzunsler",
+        "productCategory": "Mittel gegen Buchsbaumzünsler",
+        "subCategories": []
+    },
+    {
+        "key": "schneckenkorn",
+        "name": "Schneckenkorn",
+        "slug": "schneckenkorn",
+        "productCategory": "Schneckenkorn",
+        "subCategories": []
+    },
+    {
+        "key": "fungizide",
+        "name": "Fungizide",
+        "slug": "fungizide",
+        "productCategory": "Fungizide",
+        "subCategories": []
+    },
+    {
+        "key": "rosenschutzmittel",
+        "name": "Rosenschutzmittel",
+        "slug": "rosenschutzmittel",
+        "productCategory": "Rosenschutzmittel",
+        "subCategories": []
+    },
+    {
+        "key": "mittel gegen weiße fliege",
+        "name": "Mittel gegen Weiße Fliege",
+        "slug": "mittel-gegen-weisse-fliege",
+        "productCategory": "Mittel gegen Weiße Fliege",
+        "subCategories": []
+    },
+    {
+        "key": "wespenabwehr",
+        "name": "Wespenabwehr",
+        "slug": "wespenabwehr",
+        "productCategory": "Wespenabwehr",
+        "subCategories": []
+    },
+    {
+        "key": "wespenspray",
+        "name": "Wespenspray",
+        "slug": "wespenspray",
+        "productCategory": "Wespenspray",
+        "subCategories": []
+    },
+    {
+        "key": "wundverschluss an gehölzen",
+        "name": "Wundverschluss an Gehölzen",
+        "slug": "wundverschluss-an-geholzen",
+        "productCategory": "Wundverschluss an Gehölzen",
+        "subCategories": []
+    },
+    {
+        "key": "bodentest",
+        "name": "Bodentest",
+        "slug": "bodentest",
+        "productCategory": "Bodentest",
+        "subCategories": []
+    },
+    {
+        "key": "palmendünger",
+        "name": "Palmendünger",
+        "slug": "palmendunger",
+        "productCategory": "Palmendünger",
+        "subCategories": []
+    },
+    {
+        "key": "rasenkalk",
+        "name": "Rasenkalk",
+        "slug": "rasenkalk",
+        "productCategory": "Rasenkalk",
+        "subCategories": []
+    },
+    {
+        "key": "koniferendünger",
+        "name": "Koniferendünger",
+        "slug": "koniferendunger",
+        "productCategory": "Koniferendünger",
         "subCategories": []
     }
 ]
