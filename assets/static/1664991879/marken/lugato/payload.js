@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/lugato", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/lugato-schneckenschutz-anstrich-schnexagon-r-375-ml-lugato-1498070-1.jpg":"\u002Fassets\u002Fimages\u002Flugato-schneckenschutz-anstrich-schnexagon-r-375-ml-lugato-1498070-1.webp"}}],fetch:{},mutations:void 0});

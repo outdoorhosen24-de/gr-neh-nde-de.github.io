@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/rhododendrondunger", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/compo-vital-duenger-fuer-hortensien-und-rhododendren-1-kg-compo-2382877-1.jpg":"\u002Fassets\u002Fimages\u002Fcompo-vital-duenger-fuer-hortensien-und-rhododendren-1-kg-compo-2382877-1.webp"}}],fetch:{},mutations:void 0});

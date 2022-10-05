@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/manna", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/manna-bio-algenkalk-25-kg-manna-8213308-1.jpg":"\u002Fassets\u002Fimages\u002Fmanna-bio-algenkalk-25-kg-manna-8213308-1.webp"}}],fetch:{},mutations:void 0});

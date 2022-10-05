@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/palmendunger", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/compo-gruenpflanzen-und-palmenduenger-mit-sofortwirkung-500-ml-compo-9648668-1.jpg":"\u002Fassets\u002Fimages\u002Fcompo-gruenpflanzen-und-palmenduenger-mit-sofortwirkung-500-ml-compo-9648668-1.webp"}}],fetch:{},mutations:void 0});

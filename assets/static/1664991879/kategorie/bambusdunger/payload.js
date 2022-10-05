@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/bambusdunger", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/compo-bambus-und-ziergraeser-langzeit-duenger-850-g-compo-6099212-1.jpg":"\u002Fassets\u002Fimages\u002Fcompo-bambus-und-ziergraeser-langzeit-duenger-850-g-compo-6099212-1.webp"}}],fetch:{},mutations:void 0});

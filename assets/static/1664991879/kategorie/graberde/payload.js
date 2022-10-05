@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/graberde", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-graberde-1-x-20-l-obi-3282373-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-graberde-1-x-20-l-obi-3282373-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/mittel-gegen-spinnmilben", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/protect-garden-lizetan-zierpflanzen-und-rosen-spray-af-500-ml-protect-garden-5888706-1.jpg":"\u002Fassets\u002Fimages\u002Fprotect-garden-lizetan-zierpflanzen-und-rosen-spray-af-500-ml-protect-garden-5888706-1.webp"}}],fetch:{},mutations:void 0});

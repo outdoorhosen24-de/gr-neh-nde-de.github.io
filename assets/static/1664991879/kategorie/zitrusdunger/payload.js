@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/zitrusdunger", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/compo-bio-zitruspflanzenduenger-500-ml-compo-9898883-1.jpg":"\u002Fassets\u002Fimages\u002Fcompo-bio-zitruspflanzenduenger-500-ml-compo-9898883-1.webp"}}],fetch:{},mutations:void 0});

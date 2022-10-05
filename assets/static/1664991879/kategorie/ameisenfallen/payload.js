@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/ameisenfallen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/neudorff-loxiran-ameisen-koederdose-neudorff-1936293-1.jpg":"\u002Fassets\u002Fimages\u002Fneudorff-loxiran-ameisen-koederdose-neudorff-1936293-1.webp"}}],fetch:{},mutations:void 0});

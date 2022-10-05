@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/wuxal", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wuxal-universalduenger-250-ml-wuxal-8491045-1.jpg":"\u002Fassets\u002Fimages\u002Fwuxal-universalduenger-250-ml-wuxal-8491045-1.webp"}}],fetch:{},mutations:void 0});

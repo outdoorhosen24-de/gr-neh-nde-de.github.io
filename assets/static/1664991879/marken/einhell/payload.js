@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/einhell", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/einhell-power-x-change-akku-druckspruehgeraet-ge-ws-18-150-li-solo-einhell-7016041-1.jpg":"\u002Fassets\u002Fimages\u002Feinhell-power-x-change-akku-druckspruehgeraet-ge-ws-18-150-li-solo-einhell-7016041-1.webp"}}],fetch:{},mutations:void 0});

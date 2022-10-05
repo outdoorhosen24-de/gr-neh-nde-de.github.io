@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/gemuseerde", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/compo-bio-tomaten-und-gemueseerde-torffrei-2040-l-102-x-20-l-1-palette-compo-8818296-1.jpg":"\u002Fassets\u002Fimages\u002Fcompo-bio-tomaten-und-gemueseerde-torffrei-2040-l-102-x-20-l-1-palette-compo-8818296-1.webp"}}],fetch:{},mutations:void 0});

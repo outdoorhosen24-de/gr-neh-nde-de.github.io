@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/rosendunger", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/compo-bio-rosen-langzeit-duenger-mit-schafwolle-750-g-compo-4650396-1.jpg":"\u002Fassets\u002Fimages\u002Fcompo-bio-rosen-langzeit-duenger-mit-schafwolle-750-g-compo-4650396-1.webp"}}],fetch:{},mutations:void 0});

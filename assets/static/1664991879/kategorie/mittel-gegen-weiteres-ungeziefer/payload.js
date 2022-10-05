@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/mittel-gegen-weiteres-ungeziefer", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/protect-home-spezialspray-400-ml-protect-home-7314016-1.jpg":"\u002Fassets\u002Fimages\u002Fprotect-home-spezialspray-400-ml-protect-home-7314016-1.webp"}}],fetch:{},mutations:void 0});
