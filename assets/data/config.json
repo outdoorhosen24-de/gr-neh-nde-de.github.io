@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "gr\u00fcneh\u00e4nde.de",
+    "hostname": "https://www.gr\u00fcneh\u00e4nde.de/",
+    "email": "gr\u00fcneh\u00e4nde.desurrealnetworks.io",
+    "organization": "gr\u00fcneh\u00e4nde.de",
+    "logoText": "Gr\u00fcneh\u00e4nde.de",
+    "title": "Pflanzenpflege & Pflanzenanzucht",
+    "subline": "Der Online Shop f\u00fcr Pflanzenpflege & Pflanzenanzucht",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "5550884",
+        "1911593",
+        "6082044",
+        "8042657",
+        "1097146",
+        "1237684"
+    ],
+    "winnerProducts": [
+        "6858351",
+        "9613035",
+        "7016041"
+    ],
+    "featuredCategories": [
+        "Orchideenerde",
+        "Mittel gegen Wei\u00dfe Fliege",
+        "Palmenerde",
+        "Druckspr\u00fcher",
+        "Orchideend\u00fcnger",
+        "Mittel gegen Buchsbaumz\u00fcnsler"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Pflanzenpflege & Pflanzenanzucht",
-        "featureText": "Your featured text goes here",
+        "featureText": "In unserem Shop finden Sie alles, was Sie f\u00fcr die Pflege und Anzucht Ihrer Pflanzen ben\u00f6tigen. Wir bieten hochwertige Produkte zu fairen Preisen. Unsere Experten beraten Sie gerne, damit Sie die besten Ergebnisse erzielen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Pflanzenpflege & Pflanzenanzucht",
+            "metaDescription": "Pflanzenpflege & Pflanzenanzucht - alles f\u00fcr die perfekte Pflanze! Wir bieten hochwertige Pflanzenpflegeprodukte und alles f\u00fcr die Anzucht und Pflege von Pflanzen.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Pflanzenpflege & Pflanzenanzucht",
+                    "text": "Pflanzenpflege ist ein wichtiger Aspekt der Gartenarbeit. Es gibt verschiedene Arten von Pflanzen, die unterschiedliche Pflege erfordern. Einige Pflanzen ben\u00f6tigen mehr Wasser, andere weniger. Manche Pflanzen m\u00f6gen es, wenn man ihnen h\u00e4ufig die Bl\u00e4tter abwischt, andere nicht.\n\nDie meisten Pflanzen ben\u00f6tigen jedoch regelm\u00e4\u00dfiges Gie\u00dfen, D\u00fcngen und Schneiden. Au\u00dferdem sollten sie regelm\u00e4\u00dfig auf Sch\u00e4dlinge und Krankheiten kontrolliert werden.\n\nPflanzenanzucht ist die Kunst, Pflanzen zu z\u00fcchten und zu kultivieren. Es gibt verschiedene Arten von Pflanzen, die auf unterschiedliche Weise gez\u00fcchtet werden. Einige Pflanzen werden aus Samen gez\u00fcchtet, andere aus Stecklingen.\n\nPflanzenanzucht ist eine Kunst, die viel Zeit, Geduld und Aufmerksamkeit erfordert. Um erfolgreich Pflanzen zu z\u00fcchten, m\u00fcssen Sie sich gut mit den Bed\u00fcrfnissen der Pflanzen auskennen. Sie m\u00fcssen wissen, wie viel Wasser und N\u00e4hrstoffe die Pflanzen ben\u00f6tigen und wie oft sie gegossen werden m\u00fcssen.\n\nPflanzenanzucht ist eine spannende und lohnende Aktivit\u00e4t. Es ist eine gro\u00dfartige M\u00f6glichkeit, neue Pflanzen kennenzulernen und zu lernen, wie man sie pflegt."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Pflanzenpflege & Pflanzenanzucht shop",
+            "metaDescription": "Pflanzenpflege & Pflanzenanzucht Shop - Alles f\u00fcr die Pflege und Anzucht Ihrer Pflanzen. Schnelle Lieferung, gro\u00dfe Auswahl, faire Preise.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Pflanzenpflege & Pflanzenanzucht - manufacturer",
+            "metaDescription": "Pflanzenpflege & Pflanzenanzucht - Die besten Tipps vom manufacturer.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Pflanzenpflege & Pflanzenanzucht: $PRODUKT",
+        "defaultMetaDescription": "Pflanzenpflege & Pflanzenanzucht: $PRODUKT von $HERSTELLER - f\u00fcr die beste $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Pflanzenpflege & Pflanzenanzucht: $KATEGORIE",
+        "defaultMetaDescription": "Pflanzenpflege & Pflanzenanzucht: Tipps und Tricks rund um die $KATEGORIE \u2013 von A wie Anzucht bis Z wie Z\u00fcchtung.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Pflanzenpflege & Pflanzenanzucht von $HERSTELLER - alles f\u00fcr die optimale Pflanzenpflege und Anzucht. Jetzt online bestellen!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Pflanzenpflege & Pflanzenanzucht",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Pflanzenpflege & Pflanzenanzucht Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Pflanzenpflege & Pflanzenanzucht Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
