@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
-    "domain": "gr\u00fcneh\u00e4nde.de",
-    "hostname": "https://www.gr\u00fcneh\u00e4nde.de/",
-    "email": "gr\u00fcneh\u00e4nde.desurrealnetworks.io",
-    "organization": "gr\u00fcneh\u00e4nde.de",
-    "logoText": "Gr\u00fcneh\u00e4nde.de",
+    "configIsReady": false,
+    "domain": "grünehände.de",
+    "hostname": "https://www.grünehände.de/",
+    "email": "grünehände.desurrealnetworks.io",
+    "organization": "grünehände.de",
+    "logoText": "Grünehände.de",
     "title": "Pflanzenpflege & Pflanzenanzucht",
-    "subline": "Der Online Shop f\u00fcr Pflanzenpflege & Pflanzenanzucht",
+    "subline": "Der Online Shop für Pflanzenpflege & Pflanzenanzucht",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -29,11 +29,11 @@
     ],
     "featuredCategories": [
         "Orchideenerde",
-        "Mittel gegen Wei\u00dfe Fliege",
+        "Mittel gegen Weiße Fliege",
         "Palmenerde",
-        "Druckspr\u00fcher",
-        "Orchideend\u00fcnger",
-        "Mittel gegen Buchsbaumz\u00fcnsler"
+        "Drucksprüher",
+        "Orchideendünger",
+        "Mittel gegen Buchsbaumzünsler"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -46,21 +46,21 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Pflanzenpflege & Pflanzenanzucht",
-        "featureText": "In unserem Shop finden Sie alles, was Sie f\u00fcr die Pflege und Anzucht Ihrer Pflanzen ben\u00f6tigen. Wir bieten hochwertige Produkte zu fairen Preisen. Unsere Experten beraten Sie gerne, damit Sie die besten Ergebnisse erzielen.",
+        "featureText": "In unserem Shop finden Sie alles, was Sie für die Pflege und Anzucht Ihrer Pflanzen benötigen. Wir bieten hochwertige Produkte zu fairen Preisen. Unsere Experten beraten Sie gerne, damit Sie die besten Ergebnisse erzielen.",
         "index": {
             "title": "Pflanzenpflege & Pflanzenanzucht",
-            "metaDescription": "Pflanzenpflege & Pflanzenanzucht - alles f\u00fcr die perfekte Pflanze! Wir bieten hochwertige Pflanzenpflegeprodukte und alles f\u00fcr die Anzucht und Pflege von Pflanzen.",
+            "metaDescription": "Pflanzenpflege & Pflanzenanzucht - alles für die perfekte Pflanze! Wir bieten hochwertige Pflanzenpflegeprodukte und alles für die Anzucht und Pflege von Pflanzen.",
             "robots": "index, follow",
             "texts": [
                 {
                     "title": "Pflanzenpflege & Pflanzenanzucht",
-                    "text": "Pflanzenpflege ist ein wichtiger Aspekt der Gartenarbeit. Es gibt verschiedene Arten von Pflanzen, die unterschiedliche Pflege erfordern. Einige Pflanzen ben\u00f6tigen mehr Wasser, andere weniger. Manche Pflanzen m\u00f6gen es, wenn man ihnen h\u00e4ufig die Bl\u00e4tter abwischt, andere nicht.\n\nDie meisten Pflanzen ben\u00f6tigen jedoch regelm\u00e4\u00dfiges Gie\u00dfen, D\u00fcngen und Schneiden. Au\u00dferdem sollten sie regelm\u00e4\u00dfig auf Sch\u00e4dlinge und Krankheiten kontrolliert werden.\n\nPflanzenanzucht ist die Kunst, Pflanzen zu z\u00fcchten und zu kultivieren. Es gibt verschiedene Arten von Pflanzen, die auf unterschiedliche Weise gez\u00fcchtet werden. Einige Pflanzen werden aus Samen gez\u00fcchtet, andere aus Stecklingen.\n\nPflanzenanzucht ist eine Kunst, die viel Zeit, Geduld und Aufmerksamkeit erfordert. Um erfolgreich Pflanzen zu z\u00fcchten, m\u00fcssen Sie sich gut mit den Bed\u00fcrfnissen der Pflanzen auskennen. Sie m\u00fcssen wissen, wie viel Wasser und N\u00e4hrstoffe die Pflanzen ben\u00f6tigen und wie oft sie gegossen werden m\u00fcssen.\n\nPflanzenanzucht ist eine spannende und lohnende Aktivit\u00e4t. Es ist eine gro\u00dfartige M\u00f6glichkeit, neue Pflanzen kennenzulernen und zu lernen, wie man sie pflegt."
+                    "text": "Pflanzenpflege ist ein wichtiger Aspekt der Gartenarbeit. Es gibt verschiedene Arten von Pflanzen, die unterschiedliche Pflege erfordern. Einige Pflanzen benötigen mehr Wasser, andere weniger. Manche Pflanzen mögen es, wenn man ihnen häufig die Blätter abwischt, andere nicht.\n\nDie meisten Pflanzen benötigen jedoch regelmäßiges Gießen, Düngen und Schneiden. Außerdem sollten sie regelmäßig auf Schädlinge und Krankheiten kontrolliert werden.\n\nPflanzenanzucht ist die Kunst, Pflanzen zu züchten und zu kultivieren. Es gibt verschiedene Arten von Pflanzen, die auf unterschiedliche Weise gezüchtet werden. Einige Pflanzen werden aus Samen gezüchtet, andere aus Stecklingen.\n\nPflanzenanzucht ist eine Kunst, die viel Zeit, Geduld und Aufmerksamkeit erfordert. Um erfolgreich Pflanzen zu züchten, müssen Sie sich gut mit den Bedürfnissen der Pflanzen auskennen. Sie müssen wissen, wie viel Wasser und Nährstoffe die Pflanzen benötigen und wie oft sie gegossen werden müssen.\n\nPflanzenanzucht ist eine spannende und lohnende Aktivität. Es ist eine großartige Möglichkeit, neue Pflanzen kennenzulernen und zu lernen, wie man sie pflegt."
                 }
             ]
         },
         "shop": {
             "title": "Pflanzenpflege & Pflanzenanzucht shop",
-            "metaDescription": "Pflanzenpflege & Pflanzenanzucht Shop - Alles f\u00fcr die Pflege und Anzucht Ihrer Pflanzen. Schnelle Lieferung, gro\u00dfe Auswahl, faire Preise.",
+            "metaDescription": "Pflanzenpflege & Pflanzenanzucht Shop - Alles für die Pflege und Anzucht Ihrer Pflanzen. Schnelle Lieferung, große Auswahl, faire Preise.",
             "robots": "index, follow"
         },
         "hersteller": {
@@ -71,15 +71,15 @@
     },
     "productSeo": {
         "defaultTitle": "Pflanzenpflege & Pflanzenanzucht: $PRODUKT",
-        "defaultMetaDescription": "Pflanzenpflege & Pflanzenanzucht: $PRODUKT von $HERSTELLER - f\u00fcr die beste $KATEGORIE.",
+        "defaultMetaDescription": "Pflanzenpflege & Pflanzenanzucht: $PRODUKT von $HERSTELLER - für die beste $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
@@ -87,7 +87,7 @@
     },
     "categorySeo": {
         "defaultTitle": "Pflanzenpflege & Pflanzenanzucht: $KATEGORIE",
-        "defaultMetaDescription": "Pflanzenpflege & Pflanzenanzucht: Tipps und Tricks rund um die $KATEGORIE \u2013 von A wie Anzucht bis Z wie Z\u00fcchtung.",
+        "defaultMetaDescription": "Pflanzenpflege & Pflanzenanzucht: Tipps und Tricks rund um die $KATEGORIE – von A wie Anzucht bis Z wie Züchtung.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "Pflanzenpflege & Pflanzenanzucht von $HERSTELLER - alles f\u00fcr die optimale Pflanzenpflege und Anzucht. Jetzt online bestellen!",
+        "defaultMetaDescription": "Pflanzenpflege & Pflanzenanzucht von $HERSTELLER - alles für die optimale Pflanzenpflege und Anzucht. Jetzt online bestellen!",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
