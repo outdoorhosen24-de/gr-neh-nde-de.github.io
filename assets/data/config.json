@@ -51,12 +51,15 @@
             "title": "Pflanzenpflege & Pflanzenanzucht",
             "metaDescription": "Pflanzenpflege & Pflanzenanzucht - alles für die perfekte Pflanze! Wir bieten hochwertige Pflanzenpflegeprodukte und alles für die Anzucht und Pflege von Pflanzen.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Pflanzenpflege & Pflanzenanzucht",
-                    "text": "Pflanzenpflege ist ein wichtiger Aspekt der Gartenarbeit. Es gibt verschiedene Arten von Pflanzen, die unterschiedliche Pflege erfordern. Einige Pflanzen benötigen mehr Wasser, andere weniger. Manche Pflanzen mögen es, wenn man ihnen häufig die Blätter abwischt, andere nicht.\n\nDie meisten Pflanzen benötigen jedoch regelmäßiges Gießen, Düngen und Schneiden. Außerdem sollten sie regelmäßig auf Schädlinge und Krankheiten kontrolliert werden.\n\nPflanzenanzucht ist die Kunst, Pflanzen zu züchten und zu kultivieren. Es gibt verschiedene Arten von Pflanzen, die auf unterschiedliche Weise gezüchtet werden. Einige Pflanzen werden aus Samen gezüchtet, andere aus Stecklingen.\n\nPflanzenanzucht ist eine Kunst, die viel Zeit, Geduld und Aufmerksamkeit erfordert. Um erfolgreich Pflanzen zu züchten, müssen Sie sich gut mit den Bedürfnissen der Pflanzen auskennen. Sie müssen wissen, wie viel Wasser und Nährstoffe die Pflanzen benötigen und wie oft sie gegossen werden müssen.\n\nPflanzenanzucht ist eine spannende und lohnende Aktivität. Es ist eine großartige Möglichkeit, neue Pflanzen kennenzulernen und zu lernen, wie man sie pflegt."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Pflanzenpflege & Pflanzenanzucht",
+                        "text": "Pflanzenpflege ist ein wichtiger Aspekt der Gartenarbeit. Es gibt verschiedene Arten von Pflanzen, die unterschiedliche Pflege erfordern. Einige Pflanzen benötigen mehr Wasser, andere weniger. Manche Pflanzen mögen es, wenn man ihnen häufig die Blätter abwischt, andere nicht.\n\nDie meisten Pflanzen benötigen jedoch regelmäßiges Gießen, Düngen und Schneiden. Außerdem sollten sie regelmäßig auf Schädlinge und Krankheiten kontrolliert werden.\n\nPflanzenanzucht ist die Kunst, Pflanzen zu züchten und zu kultivieren. Es gibt verschiedene Arten von Pflanzen, die auf unterschiedliche Weise gezüchtet werden. Einige Pflanzen werden aus Samen gezüchtet, andere aus Stecklingen.\n\nPflanzenanzucht ist eine Kunst, die viel Zeit, Geduld und Aufmerksamkeit erfordert. Um erfolgreich Pflanzen zu züchten, müssen Sie sich gut mit den Bedürfnissen der Pflanzen auskennen. Sie müssen wissen, wie viel Wasser und Nährstoffe die Pflanzen benötigen und wie oft sie gegossen werden müssen.\n\nPflanzenanzucht ist eine spannende und lohnende Aktivität. Es ist eine großartige Möglichkeit, neue Pflanzen kennenzulernen und zu lernen, wie man sie pflegt."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Pflanzenpflege & Pflanzenanzucht shop",
