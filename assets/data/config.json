@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "grünehände.de",
     "hostname": "https://www.grünehände.de/",
     "email": "grünehände.de@surrealnetworks.io",
     "organization": "grünehände.de",
     "logoText": "Grünehände.de",
     "title": "Pflanzenpflege & Pflanzenanzucht",
-    "subline": "Der Online Shop für Pflanzenpflege & Pflanzenanzucht",
+    "subline": "Unser Online Shop sorgt für das Grün in Ihrem Zuhause",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Pflanzenpflege & Pflanzenanzucht",
-        "featureText": "In unserem Shop finden Sie alles, was Sie für die Pflege und Anzucht Ihrer Pflanzen benötigen. Wir bieten hochwertige Produkte zu fairen Preisen. Unsere Experten beraten Sie gerne, damit Sie die besten Ergebnisse erzielen.",
+        "featureText": "Schön, dass Sie uns gefunden haben! Bei uns finden Sie alles, was Sie für die Pflege und Anzucht Ihrer Pflanzen benötigen. Erde? Dünger? Unkrautmittel? Pflanzenschutz? Schädlingsbekämpfung? Nützlinge? Kein Problem! Wir haben alles, was Ihre Pflanzen nicht nur schön aussehen lässt, sondern auch gesund hält. Schauen Sie selbst und überzeugen Sie sich von unserem umfangreichen Sortiment. Alles in überzeugender Qualität und zu fairen Preisen.",
         "index": {
             "title": "Pflanzenpflege & Pflanzenanzucht",
-            "metaDescription": "Pflanzenpflege & Pflanzenanzucht - alles für die perfekte Pflanze! Wir bieten hochwertige Pflanzenpflegeprodukte und alles für die Anzucht und Pflege von Pflanzen.",
+            "metaDescription": "Alles für die perfekte Pflanze! Verschiedene Erde ~ Dünger ~ Unkrautmittel ~ Pflanzenschutzmittel ~ Schädlingsbekämpfung ~ Nützlinge. Einfach online bestellen!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Pflanzenpflege & Pflanzenanzucht shop",
-            "metaDescription": "Pflanzenpflege & Pflanzenanzucht Shop - Alles für die Pflege und Anzucht Ihrer Pflanzen. Schnelle Lieferung, große Auswahl, faire Preise.",
+            "title": "Der Shop für Pflanzenpflege & Pflanzenanzucht ",
+            "metaDescription": "Alles, was Sie für die Pflege und den Anbau Ihres grünen Zuhauses benötigen! Große Auswahl an zuverlässigen Produkten. Schneller Versand. Sehr günstige Preise.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Pflanzenpflege & Pflanzenanzucht - manufacturer",
-            "metaDescription": "Pflanzenpflege & Pflanzenanzucht - Die besten Tipps vom manufacturer.",
+            "title": "Pflanzenpflege & Pflanzenanzucht - nur die besten Marken!",
+            "metaDescription": "Bestaunen Sie unsere riesige Auswahl von verschieden Markenanbietern wie Compo, Floragard, Gloria, Neudorff, OBI, Westland und vielen weiteren! ",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Pflanzenpflege & Pflanzenanzucht: $PRODUKT",
-        "defaultMetaDescription": "Pflanzenpflege & Pflanzenanzucht: $PRODUKT von $HERSTELLER - für die beste $KATEGORIE.",
+        "defaultTitle": "$PRODUKT | online bestellen auf Grünehände.de",
+        "defaultMetaDescription": "$PRODUKT vom Hersteller $HERSTELLER - Top Auswahl. Entdecken Sie auch weitere Produkte aus verschiedenen Kategorien wie $KATEGORIE!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Pflanzenpflege & Pflanzenanzucht: $KATEGORIE",
-        "defaultMetaDescription": "Pflanzenpflege & Pflanzenanzucht: Tipps und Tricks rund um die $KATEGORIE – von A wie Anzucht bis Z wie Züchtung.",
+        "defaultTitle": " $KATEGORIE | Grünehände.de",
+        "defaultMetaDescription": "Finden Sie das passende Produkt für Ihre Pflanzen in unserer Kategorie $KATEGORIE. Top Marken. Top Qualität. Top Preise. ",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Pflanzenpflege & Pflanzenanzucht von $HERSTELLER - alles für die optimale Pflanzenpflege und Anzucht. Jetzt online bestellen!",
+        "defaultTitle": "$HERSTELLER - immer richtig für Ihre Pflanze!",
+        "defaultMetaDescription": "Top Produkte vom Hersteller $HERSTELLER - alles für die optimale Pflanzenpflege und Anzucht. Jetzt online bestellen und weitere Produkte entdecken!",
         "defaultRobots": "index, follow",
         "brands": [
             {
