@@ -23,7 +23,7 @@
     {
         "key": "dünger",
         "name": "Dünger",
-        "slug": "dunger",
+        "slug": "duenger",
         "productCategory": "Dünger",
         "subCategories": []
     },
@@ -72,7 +72,7 @@
     {
         "key": "grünbelagentferner",
         "name": "Grünbelagentferner",
-        "slug": "grunbelagentferner",
+        "slug": "gruenbelagentferner",
         "productCategory": "Grünbelagentferner",
         "subCategories": []
     },
@@ -93,14 +93,14 @@
     {
         "key": "gartendünger",
         "name": "Gartendünger",
-        "slug": "gartendunger",
+        "slug": "gartenduenger",
         "productCategory": "Gartendünger",
         "subCategories": []
     },
     {
         "key": "zitrusdünger",
         "name": "Zitrusdünger",
-        "slug": "zitrusdunger",
+        "slug": "zitrusduenger",
         "productCategory": "Zitrusdünger",
         "subCategories": []
     },
@@ -163,28 +163,28 @@
     {
         "key": "schädlingsbekämpfung & pflanzenschutzmittel",
         "name": "Schädlingsbekämpfung & Pflanzenschutzmittel",
-        "slug": "schadlingsbekampfung-pflanzenschutzmittel",
+        "slug": "schaedlingsbekaempfung-pflanzenschutzmittel",
         "productCategory": "Schädlingsbekämpfung & Pflanzenschutzmittel",
         "subCategories": []
     },
     {
         "key": "drucksprüher",
         "name": "Drucksprüher",
-        "slug": "druckspruher",
+        "slug": "drucksprueher",
         "productCategory": "Drucksprüher",
         "subCategories": []
     },
     {
         "key": "drucksprühgeräte",
         "name": "Drucksprühgeräte",
-        "slug": "druckspruhgerate",
+        "slug": "druckspruehgeraete",
         "productCategory": "Drucksprühgeräte",
         "subCategories": []
     },
     {
         "key": "kalkdünger",
         "name": "Kalkdünger",
-        "slug": "kalkdunger",
+        "slug": "kalkduenger",
         "productCategory": "Kalkdünger",
         "subCategories": []
     },
@@ -205,7 +205,7 @@
     {
         "key": "insektenhäuser & nützlingheime",
         "name": "Insektenhäuser & Nützlingheime",
-        "slug": "insektenhauser-nutzlingheime",
+        "slug": "insektenhaeuser-nuetzlingheime",
         "productCategory": "Insektenhäuser & Nützlingheime",
         "subCategories": []
     },
@@ -219,35 +219,35 @@
     {
         "key": "rasendünger",
         "name": "Rasendünger",
-        "slug": "rasendunger",
+        "slug": "rasenduenger",
         "productCategory": "Rasendünger",
         "subCategories": []
     },
     {
         "key": "rasendünger mit langzeitwirkung",
         "name": "Rasendünger mit Langzeitwirkung",
-        "slug": "rasendunger-mit-langzeitwirkung",
+        "slug": "rasenduenger-mit-langzeitwirkung",
         "productCategory": "Rasendünger mit Langzeitwirkung",
         "subCategories": []
     },
     {
         "key": "rasendünger mit unkrautvernichter",
         "name": "Rasendünger mit Unkrautvernichter",
-        "slug": "rasendunger-mit-unkrautvernichter",
+        "slug": "rasenduenger-mit-unkrautvernichter",
         "productCategory": "Rasendünger mit Unkrautvernichter",
         "subCategories": []
     },
     {
         "key": "bio-rasendünger",
         "name": "Bio-Rasendünger",
-        "slug": "bio-rasendunger",
+        "slug": "bio-rasenduenger",
         "productCategory": "Bio-Rasendünger",
         "subCategories": []
     },
     {
         "key": "buchsbaumdünger",
         "name": "Buchsbaumdünger",
-        "slug": "buchsbaumdunger",
+        "slug": "buchsbaumduenger",
         "productCategory": "Buchsbaumdünger",
         "subCategories": []
     },
@@ -275,49 +275,49 @@
     {
         "key": "blumendünger",
         "name": "Blumendünger",
-        "slug": "blumendunger",
+        "slug": "blumenduenger",
         "productCategory": "Blumendünger",
         "subCategories": []
     },
     {
         "key": "weitere blumendünger",
         "name": "Weitere Blumendünger",
-        "slug": "weitere-blumendunger",
+        "slug": "weitere-blumenduenger",
         "productCategory": "Weitere Blumendünger",
         "subCategories": []
     },
     {
         "key": "hortensiendünger",
         "name": "Hortensiendünger",
-        "slug": "hortensiendunger",
+        "slug": "hortensienduenger",
         "productCategory": "Hortensiendünger",
         "subCategories": []
     },
     {
         "key": "rhododendrondünger",
         "name": "Rhododendrondünger",
-        "slug": "rhododendrondunger",
+        "slug": "rhododendronduenger",
         "productCategory": "Rhododendrondünger",
         "subCategories": []
     },
     {
         "key": "weitere gartendünger",
         "name": "Weitere Gartendünger",
-        "slug": "weitere-gartendunger",
+        "slug": "weitere-gartenduenger",
         "productCategory": "Weitere Gartendünger",
         "subCategories": []
     },
     {
         "key": "kübelpflanzenerde",
         "name": "Kübelpflanzenerde",
-        "slug": "kubelpflanzenerde",
+        "slug": "kuebelpflanzenerde",
         "productCategory": "Kübelpflanzenerde",
         "subCategories": []
     },
     {
         "key": "hornspäne",
         "name": "Hornspäne",
-        "slug": "hornspane",
+        "slug": "hornspaene",
         "productCategory": "Hornspäne",
         "subCategories": []
     },
@@ -338,7 +338,7 @@
     {
         "key": "biologische schädlingsbekämpfung",
         "name": "Biologische Schädlingsbekämpfung",
-        "slug": "biologische-schadlingsbekampfung",
+        "slug": "biologische-schaedlingsbekaempfung",
         "productCategory": "Biologische Schädlingsbekämpfung",
         "subCategories": []
     },
@@ -387,14 +387,14 @@
     {
         "key": "orchideendünger",
         "name": "Orchideendünger",
-        "slug": "orchideendunger",
+        "slug": "orchideenduenger",
         "productCategory": "Orchideendünger",
         "subCategories": []
     },
     {
         "key": "kräutererde",
         "name": "Kräutererde",
-        "slug": "krautererde",
+        "slug": "kraeutererde",
         "productCategory": "Kräutererde",
         "subCategories": []
     },
@@ -443,7 +443,7 @@
     {
         "key": "gemüseerde",
         "name": "Gemüseerde",
-        "slug": "gemuseerde",
+        "slug": "gemueseerde",
         "productCategory": "Gemüseerde",
         "subCategories": []
     },
@@ -457,49 +457,49 @@
     {
         "key": "rosendünger",
         "name": "Rosendünger",
-        "slug": "rosendunger",
+        "slug": "rosenduenger",
         "productCategory": "Rosendünger",
         "subCategories": []
     },
     {
         "key": "weitere rasendünger",
         "name": "Weitere Rasendünger",
-        "slug": "weitere-rasendunger",
+        "slug": "weitere-rasenduenger",
         "productCategory": "Weitere Rasendünger",
         "subCategories": []
     },
     {
         "key": "tomatendünger",
         "name": "Tomatendünger",
-        "slug": "tomatendunger",
+        "slug": "tomatenduenger",
         "productCategory": "Tomatendünger",
         "subCategories": []
     },
     {
         "key": "rasendünger mit moosvernichter",
         "name": "Rasendünger mit Moosvernichter",
-        "slug": "rasendunger-mit-moosvernichter",
+        "slug": "rasenduenger-mit-moosvernichter",
         "productCategory": "Rasendünger mit Moosvernichter",
         "subCategories": []
     },
     {
         "key": "nützlinge",
         "name": "Nützlinge",
-        "slug": "nutzlinge",
+        "slug": "nuetzlinge",
         "productCategory": "Nützlinge",
         "subCategories": []
     },
     {
         "key": "gemüsedünger",
         "name": "Gemüsedünger",
-        "slug": "gemusedunger",
+        "slug": "gemueseduenger",
         "productCategory": "Gemüsedünger",
         "subCategories": []
     },
     {
         "key": "heckendünger",
         "name": "Heckendünger",
-        "slug": "heckendunger",
+        "slug": "heckenduenger",
         "productCategory": "Heckendünger",
         "subCategories": []
     },
@@ -520,28 +520,28 @@
     {
         "key": "bambusdünger",
         "name": "Bambusdünger",
-        "slug": "bambusdunger",
+        "slug": "bambusduenger",
         "productCategory": "Bambusdünger",
         "subCategories": []
     },
     {
         "key": "pflanzenstärkungsmittel",
         "name": "Pflanzenstärkungsmittel",
-        "slug": "pflanzenstarkungsmittel",
+        "slug": "pflanzenstaerkungsmittel",
         "productCategory": "Pflanzenstärkungsmittel",
         "subCategories": []
     },
     {
         "key": "universaldünger",
         "name": "Universaldünger",
-        "slug": "universaldunger",
+        "slug": "universalduenger",
         "productCategory": "Universaldünger",
         "subCategories": []
     },
     {
         "key": "rasenstartdünger",
         "name": "Rasenstartdünger",
-        "slug": "rasenstartdunger",
+        "slug": "rasenstartduenger",
         "productCategory": "Rasenstartdünger",
         "subCategories": []
     },
@@ -562,7 +562,7 @@
     {
         "key": "beerendünger",
         "name": "Beerendünger",
-        "slug": "beerendunger",
+        "slug": "beerenduenger",
         "productCategory": "Beerendünger",
         "subCategories": []
     },
@@ -597,14 +597,14 @@
     {
         "key": "schneckenzäune",
         "name": "Schneckenzäune",
-        "slug": "schneckenzaune",
+        "slug": "schneckenzaeune",
         "productCategory": "Schneckenzäune",
         "subCategories": []
     },
     {
         "key": "mittel gegen mäuse",
         "name": "Mittel gegen Mäuse",
-        "slug": "mittel-gegen-mause",
+        "slug": "mittel-gegen-maeuse",
         "productCategory": "Mittel gegen Mäuse",
         "subCategories": []
     },
@@ -632,21 +632,21 @@
     {
         "key": "mittel gegen mücken",
         "name": "Mittel gegen Mücken",
-        "slug": "mittel-gegen-mucken",
+        "slug": "mittel-gegen-muecken",
         "productCategory": "Mittel gegen Mücken",
         "subCategories": []
     },
     {
         "key": "schädlinge an pflanzen",
         "name": "Schädlinge an Pflanzen",
-        "slug": "schadlinge-an-pflanzen",
+        "slug": "schaedlinge-an-pflanzen",
         "productCategory": "Schädlinge an Pflanzen",
         "subCategories": []
     },
     {
         "key": "mittel gegen blattläuse",
         "name": "Mittel gegen Blattläuse",
-        "slug": "mittel-gegen-blattlause",
+        "slug": "mittel-gegen-blattlaeuse",
         "productCategory": "Mittel gegen Blattläuse",
         "subCategories": []
     },
@@ -660,7 +660,7 @@
     {
         "key": "mittel gegen buchsbaumzünsler",
         "name": "Mittel gegen Buchsbaumzünsler",
-        "slug": "mittel-gegen-buchsbaumzunsler",
+        "slug": "mittel-gegen-buchsbaumzuensler",
         "productCategory": "Mittel gegen Buchsbaumzünsler",
         "subCategories": []
     },
@@ -709,7 +709,7 @@
     {
         "key": "wundverschluss an gehölzen",
         "name": "Wundverschluss an Gehölzen",
-        "slug": "wundverschluss-an-geholzen",
+        "slug": "wundverschluss-an-gehoelzen",
         "productCategory": "Wundverschluss an Gehölzen",
         "subCategories": []
     },
@@ -723,7 +723,7 @@
     {
         "key": "palmendünger",
         "name": "Palmendünger",
-        "slug": "palmendunger",
+        "slug": "palmenduenger",
         "productCategory": "Palmendünger",
         "subCategories": []
     },
@@ -737,7 +737,7 @@
     {
         "key": "koniferendünger",
         "name": "Koniferendünger",
-        "slug": "koniferendunger",
+        "slug": "koniferenduenger",
         "productCategory": "Koniferendünger",
         "subCategories": []
     }
